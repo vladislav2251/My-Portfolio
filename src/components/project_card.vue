@@ -18,7 +18,7 @@
                         </Typography>
                     </div>
 
-                        <Typography tag="h2" bold="bold" class="text-[#181717] underline text-2xl mb-5 md:mb-0">
+                        <Typography tag="h2" bold="bold" class="text-[#181717] underline text-2xl mb-4 md:mb-0">
                             <a :href="props.path">This project on GitHub ↗</a>
                         </Typography> 
 
