@@ -2,15 +2,8 @@
     <section id="contact" aria-labelledby="contact-heading" class="w-full">
         <Container>
 
-            <div class="lg:mt-[10rem] pt-[4rem] md:pt-0 md:py-[4rem] grid md:grid-cols-2">
+            <div class="lg:mt-[10rem] pt-[4rem] md:pt-0 grid md:grid-cols-2">
 
-                <Image 
-                    src="/img/Moon.jpg"
-                    alt="The moon is living in your dark hair"
-                    class="">
-                    
-                </Image>
-                
                 <div class="w-full">
                     <Typography tag="h2" bold="medium" class="text-4xl md:text-7xl mt-7 lg:mt-0">Contact me</Typography>
 
