@@ -18,7 +18,7 @@
             description: "About the project: Constantly communicated with clients, discussed issues related to the project, had the position of timlid in his team and clearly coped with it, completely followed the projects from their beginning to their launch.", 
             detail: "what discovered for himself: New Web Dev technologies. Stress resistance. Understanding of SOLID principles.", 
             path: "https://github.com/vladislav2251/marganets-studios", 
-            src: "/public/img/Block.jpg" 
+            src: "/img/Block.jpg" 
         },  
     ]);
 </script>

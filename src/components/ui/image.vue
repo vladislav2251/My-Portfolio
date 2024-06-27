@@ -8,7 +8,6 @@
 </template>
 
 <script setup lang="ts">
-        import { defineProps, ref } from 'vue';
         import type { IImageProps } from '@/interfaces/image.interface';
 
         const props = defineProps<IImageProps>();
