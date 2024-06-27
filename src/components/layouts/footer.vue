@@ -6,10 +6,10 @@
 
             <div class="grid max-md:gap-5 md:grid-cols-2 items-center">
                 <div class="grid">
-                    <Typography tag="h2" bold="font-medium" class="text-2xl md:text-3xl">I am thrilled to answer to</Typography>
+                    <Typography tag="h2" bold="medium" class="text-2xl md:text-3xl">I am thrilled to answer to</Typography>
                     
                     <div class="flex gap-5 items-center">
-                        <Typography tag="h2" bold="font-medium" class="text-2xl md:text-3xl">your next project</Typography>
+                        <Typography tag="h2" bold="medium" class="text-2xl md:text-3xl">your next project</Typography>
                         <Icons
                             name="arrow-right"
                             size="md">
@@ -19,11 +19,11 @@
 
                 <div class="grid gap-[1rem] md:place-self-end">
                     <a href="mailto:vladdidyk1985@gmail.com">
-                        <Typography tag="h2" bold="font-medium" class="text-xl md:text-3xl">vladdidyk1985@gmail.com</Typography>
+                        <Typography tag="h2" bold="medium" class="text-xl md:text-3xl">vladdidyk1985@gmail.com</Typography>
                     </a>
                     
                     <a href="/public/files/resume.pdf" download="resume">
-                        <Typography tag="p" bold="font-normal" class="text-md md:text-lg">View Resume</Typography>
+                        <Typography tag="p" bold="normal" class="text-md md:text-lg">View Resume</Typography>
                     </a>
 
                 </div>
@@ -31,7 +31,7 @@
             </div>
 
             <div class="grid md:grid-cols-2 items-center pt-[2rem] md:pt-[8rem] md:pb-8 pb-3">
-                <Typography tag="h2" bold="font-medium" class="text-xl text-[#2429AF]">Vladyslav Didyk - 2024</Typography>
+                <Typography tag="h2" bold="medium" class="text-xl text-[#2429AF]">Vladyslav Didyk - 2024</Typography>
 
                 <div class="max-md:flex-col flex gap-5 md:justify-end mt-5 md:mt-0">
                     <a 
