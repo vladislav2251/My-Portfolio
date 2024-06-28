@@ -1,7 +1,7 @@
 <template>
     <Container>
 
-        <ProjectCard :number="element.number" :label="element.label" :description="element.description" :detail="element.detail" :path="element.path" :src="element.src" v-for="(element, i) in projects" :key="i"/>
+        <ProjectCard :number="element.number" :label="element.label" :description="element.description" :detail="element.detail" :path="element.path" :link="element.link" :src="element.src" v-for="(element, i) in projects" :key="i"/>
 
     </Container>
 </template>
@@ -18,7 +18,8 @@
             description: "About the project: I consistently communicated with clients, addressing project-related issues. I held the position of team lead, successfully managing my team. I oversaw projects from inception to launch, ensuring smooth execution.", 
             detail: "What I discovered: new web development technologies, enhanced stress resistance, and a deeper understanding of SOLID principles.", 
             path: "https://github.com/vladislav2251/marganets-studios", 
-            src: "/img/Block.jpg" 
-        },  
+            src: "/img/Block.jpg",
+            link: "https://marganets-studios.vercel.app"
+        }
     ]);
 </script>
