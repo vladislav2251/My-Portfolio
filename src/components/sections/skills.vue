@@ -11,7 +11,7 @@
 
                 <div class="max-md:flex-col flex gap-[2rem] md:gap-[5rem] md:items-center">
                     <Typography tag="p" bold="medium" class="text-[18px] underline">Main Skills</Typography>
-                    <Typography tag="p" bold="normal" class="text-[18px]">Experience with version control tools such as<br/> Github, development of business logic for the<br/> frontend, work in a team, stress resistance.</Typography>
+                    <Typography tag="p" bold="normal" class="text-[18px]">Experience with version control tools such as<br/> Gitlab, development of business logic for the<br/> frontend, team work, stress resistance.</Typography>
                 </div>
 
             </div>

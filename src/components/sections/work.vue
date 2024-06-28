@@ -3,10 +3,10 @@
 
         <Container>
 
-            <div class="lg:mt-[10rem] max-md:mt-[4rem] md:mb-[4rem] grid lg:grid-cols-2">
+            <div class="lg:mt-[10rem] max-lg:mt-[8rem] max-md:mt-[4rem] md:mb-[4rem] grid lg:grid-cols-2">
                 <Typography tag="h2" bold="medium" class="text-4xl md:text-7xl">Hello, I’m<br/> Vlad.</Typography>
 
-                <Typography tag="p" bold="normal" class="my-4 text-xl md:text-3xl text-[#606060] md:mt-14">A Front-end Developer who trying to<br/> specialize  Web Dev & Design.</Typography>
+                <Typography tag="p" bold="normal" class="my-4 text-xl md:text-3xl text-[#606060] md:mt-14">A Front-end Developer who is trying to<br/> specialize  Web Dev & Design.</Typography>
             </div>
 
             <Icons

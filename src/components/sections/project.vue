@@ -15,8 +15,8 @@
         { 
             number: "01",
             label: "MARGANETS_STUDIOS", 
-            description: "About the project: Constantly communicated with clients, discussed issues related to the project, had the position of timlid in my own team and clearly coped with it, completely followed the projects from their beginning to their launch.", 
-            detail: "What discovered for myself: New Web Dev technologies. Stress resistance. Understanding of SOLID principles.", 
+            description: "About the project: I consistently communicated with clients, addressing project-related issues. I held the position of team lead, successfully managing my team. I oversaw projects from inception to launch, ensuring smooth execution.", 
+            detail: "What I discovered: new web development technologies, enhanced stress resistance, and a deeper understanding of SOLID principles.", 
             path: "https://github.com/vladislav2251/marganets-studios", 
             src: "/img/Block.jpg" 
         },  

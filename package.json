@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "axios": "^1.7.2",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.4",
     "sass": "^1.77.6",
+    "split-type": "^0.3.4",
     "vue": "^3.4.29",
     "vue-router": "^4.4.0"
   },
