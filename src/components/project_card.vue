@@ -30,8 +30,7 @@
                 <div class="overflow-hidden block relative">
                     <Image 
                         :src="props.src"
-                        :alt="props.label"
-                        class="duration-500 transition-all transform scale-100 hover:scale-125">
+                        :alt="props.label">
                     </Image>
                 </div>
                 
