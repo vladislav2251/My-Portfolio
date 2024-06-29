@@ -16,7 +16,7 @@
             number: "01",
             label: "MARGANETS_STUDIOS", 
             description: "About the project: I consistently communicated with clients, addressing project-related issues. I held the position of team lead, successfully managing my team. I oversaw projects from inception to launch, ensuring smooth execution.", 
-            detail: "What I discovered: new web development technologies, enhanced stress resistance, and a deeper understanding of SOLID principles.", 
+            detail: "What I discovered: developed business logic for the frontend. Gained extensive experience with version control tools like Gitlab. Worked effectively in a team. new web development technologies, enhanced stress resistance.", 
             path: "https://github.com/vladislav2251/marganets-studios", 
             src: "/img/Block.jpg",
             link: "https://marganets-studios.vercel.app"
