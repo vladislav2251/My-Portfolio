@@ -14,9 +14,7 @@
             <Image
                 src="/img/MyPhoto.jpg"
                 alt="me if you even care:3"
-                class="justify-self-baseline flex object-cover"
-                parallax-content
-                section-parallax>
+                class="justify-self-baseline flex object-cover">
             </Image>
 
         </div>

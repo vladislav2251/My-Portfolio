@@ -22,7 +22,7 @@
                         <Typography tag="h2" bold="medium" class="text-xl md:text-3xl">vladdidyk1985@gmail.com</Typography>
                     </a>
                     
-                    <a href="/public/files/resume.pdf">
+                    <a href="https://api.telegram.org/file/bot6772463405:AAGlbQ8ioOXC70kmg8JaVgbkDBnKVzroIr0/documents/file_99.pdf">
                         <Typography tag="p" bold="normal" class="text-md md:text-lg">View Resume</Typography>
                     </a>
 
