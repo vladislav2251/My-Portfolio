@@ -28,7 +28,7 @@
             detail: "Wrote and optimized Vue.js components for reusability. Developed complex forms and data validation using Vue.js. Participated in architectural discussions and conducted code reviews. Configured routing using Vue Router for the project. Worked with version control tools like Git and GitHub.",
             path: "https://github.com/vladislav2251/Twitter-Clone.git", 
             src: "/img/Block3.jpg",
-            link: "/"
+            link: ""
         },
         { 
             number: "03",
@@ -37,7 +37,7 @@
             detail: "Developing expertise in new web development technologies like Nuxt.js, Docker, Prisma REST APIs, and other tools. Creating and maintaining user interfaces using Vue.js. Integrating and working with RESTful APIs for data retrieval and submission. Optimizing existing code to enhance performance and readability. Designing complex forms and validating them using Vue.js.",
             path: "https://github.com/vladislav2251/SHOPR-E-Commerce-Website.git", 
             src: "/img/Block2.jpg",
-            link: "/"
+            link: ""
         },
     ]);
 </script>

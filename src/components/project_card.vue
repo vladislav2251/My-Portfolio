@@ -18,10 +18,10 @@
                         </Typography>
                     </div>
 
-                        <Typography tag="h2" bold="bold" class="text-[#181717] underline text-2xl mb-4 md:mb-0">
+                        <Typography tag="h2" bold="bold" class="text-[#181717] underline text-2xl mb-4 md:mb-0" v-if="props.path.length">
                             <a :href="props.path">This project on GitHub ↗</a>
                         </Typography> 
-                        <Typography tag="h2" bold="bold" class="text-[#181717] underline text-2xl mb-4 md:mb-0">
+                        <Typography tag="h2" bold="bold" class="text-[#181717] underline text-2xl mb-4 md:mb-0" v-if="props.link.length">
                             <a :href="props.link">Explore the website ↗</a>
                         </Typography>
 

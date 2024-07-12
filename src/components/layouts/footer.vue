@@ -22,7 +22,7 @@
                         <Typography tag="h2" bold="medium" class="text-xl md:text-3xl">vladdidyk1985@gmail.com</Typography>
                     </a>
                     
-                    <a href="/public/files/resume.pdf" download="resume" rel="noopener noreferrer" target="_blank">
+                    <a href="/public/files/pdf/resume.pdf" download="resume" rel="noopener noreferrer" target="_blank">
                         <Typography tag="p" bold="normal" class="text-md md:text-lg">View Resume</Typography>
                     </a>
 
