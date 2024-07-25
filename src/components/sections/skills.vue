@@ -6,7 +6,7 @@
 
                 <div class="max-md:flex-col flex gap-[2rem] md:gap-[5rem] md:items-center">
                     <Typography tag="p" bold="medium" class="text-[18px]">Main Stack</Typography>
-                    <Typography tag="p" bold="normal" text-split letters-slide-down class="text-[18px]">Vue.js, Nuxt.js ,TypeScript, Express.js, GSAP, REST APIs, Prisma, Tailwind CSS</Typography>
+                    <Typography tag="p" bold="normal" text-split letters-slide-down class="text-[18px]">Vue.js, Nuxt.js ,TypeScript, Express.js, GSAP, REST APIs, Prisma, Pinia, Tailwind CSS</Typography>
                 </div>
 
                 <div class="max-md:flex-col flex gap-[2rem] md:gap-[5rem] md:items-center">
