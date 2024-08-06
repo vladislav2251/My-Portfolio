@@ -35,6 +35,17 @@
       src: "/img/Block.jpg",
       link: "https://marganets-studios.vercel.app"
     },
+    { 
+      number: "02",
+      label: "Spotify - Clone", 
+      description: "A Spotify clone using Vue.js for the frontend and Prisma ORM for the backend.", 
+      detail: `
+        - Explored music player functions and learned about new libraries.
+      `,
+      path: "https://github.com/vladislav2251/spotify-clone", 
+      src: "/img/Block2.jpg",
+      link: "https://spotify-clone-vd.vercel.app"
+    },
   ]);
   </script>
   
